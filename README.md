@@ -59,7 +59,7 @@ Busco unir conhecimento de negócio com tecnologia para transformar dados em inf
 
 # 📂 Projetos em Destaque
 
-## 📊 Dashboard Analítico de Vendas — Power BI
+### 📊 [Dashboard Analítico de Vendas — Power BI](https://github.com/Fernandow14/power-bi-sales-dashboard)
 
 Projeto de Business Intelligence desenvolvido a partir de uma base simulada de vendas.
 
